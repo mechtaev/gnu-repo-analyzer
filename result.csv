@@ -1,0 +1,15 @@
+plus_count,minus_count,array,pointer,struct,url
+2,5,,POINTER,STRUCT,http://git.savannah.gnu.org/cgit/make.git/commit/?id=7fbd58cd6bcac3a911833ee5d653ed659ce6b231
+6,3,,POINTER,STRUCT,http://git.savannah.gnu.org/cgit/make.git/commit/?id=6264deece3bb77798240a906ceed79097adbcf48
+4,1,,,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=75b5268faf78f7c191f0aafe2250c9ec004659fe
+3,6,ARRAY,,STRUCT,http://git.savannah.gnu.org/cgit/make.git/commit/?id=b4682cb4797b25b7f5d3e05feb95ed4d01dfb393
+2,2,,POINTER,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=686a74bfb2a624d6e85b6343f30815c976931704
+5,1,,POINTER,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=9a9f83e8b52a3923efc6b4cf8c8f444773a30953
+6,3,ARRAY,POINTER,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=f907a4d90c895f04ee7497a5f1b58ad1fd3cddb5
+4,2,,,STRUCT,http://git.savannah.gnu.org/cgit/make.git/commit/?id=bb4d040fadcb76a8828eaf24b4f0557ec11f44fb
+3,2,,,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=afc4906acaeb7191e4ec085d7be4ca5b036b821d
+2,1,,,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=f7598efb676502e3ade6aac4a61be0984de4abda
+9,4,,POINTER,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=a2232470c27151ba0c1c37f3eba1e35396d7eabf
+15,4,ARRAY,POINTER,STRUCT,http://git.savannah.gnu.org/cgit/make.git/commit/?id=be6a8bc869ece930f3bd5f725efd9fab7a2c2940
+3,3,,,STRUCT,http://git.savannah.gnu.org/cgit/make.git/commit/?id=988deb489b89889b97f82e3095d267d09ff7e7ab
+2,1,,,,http://git.savannah.gnu.org/cgit/make.git/commit/?id=a63f51340b540074dd98bfc7201e2221c5671d28
